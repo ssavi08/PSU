@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2830528-a84d-4e4a-88bc-e89b6cd2df77" name="Changes" comment="lv2">
-      <change beforePath="$PROJECT_DIR$/.idea/PSU.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PSU.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LV2/zad 3/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LV2/mtcars.csv" beforeDir="false" afterPath="$PROJECT_DIR$/LV2/zad 2/mtcars.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LV2/mtcars_info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LV2/zad 2/mtcars_info.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LV2/zad 2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/LV2/zad 2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV2/zad 1/tiger.png" beforeDir="false" afterPath="$PROJECT_DIR$/LV2/zad 3/tiger.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +55,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sandr\PycharmProjects\PSU\LV2\zad 3" />
       <recent name="C:\Users\sandr\PycharmProjects\PSU\LV2\zad 2" />
     </key>
   </component>
@@ -77,7 +76,7 @@
       <updated>1711290271347</updated>
       <workItem from="1711290279031" duration="361000" />
       <workItem from="1711399486344" duration="2436000" />
-      <workItem from="1711475219872" duration="4118000" />
+      <workItem from="1711475219872" duration="7140000" />
     </task>
     <task id="LOCAL-00001" summary="lv2">
       <option name="closed" value="true" />
@@ -87,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711399546588</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lv2">
+      <option name="closed" value="true" />
+      <created>1711479487743</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711479487743</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +117,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="lv2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PSU$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1711479011604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LV2/zad 2" />
+    <SUITE FILE_PATH="coverage/PSU$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1711479987686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LV2/zad 3" />
   </component>
 </project>
