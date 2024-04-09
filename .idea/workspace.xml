@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2830528-a84d-4e4a-88bc-e89b6cd2df77" name="Changes" comment="lv2">
-      <change afterPath="$PROJECT_DIR$/LV3/zad 1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LV3/zad 2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LV3/zad 2/mtcars.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LV3/zad 3/AirQualityRH.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LV3/zad 3/AirQualityRH_new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LV3/zad 3/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f2830528-a84d-4e4a-88bc-e89b6cd2df77" name="Changes" comment="lv2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -85,7 +78,7 @@
       <workItem from="1711399486344" duration="2436000" />
       <workItem from="1711475219872" duration="8052000" />
       <workItem from="1712090328523" duration="196000" />
-      <workItem from="1712091226030" duration="1126000" />
+      <workItem from="1712091226030" duration="1188000" />
     </task>
     <task id="LOCAL-00001" summary="lv2">
       <option name="closed" value="true" />
@@ -111,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711490595835</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lv2">
+      <option name="closed" value="true" />
+      <created>1712092378037</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712092378037</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
